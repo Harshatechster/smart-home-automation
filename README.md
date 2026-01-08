@@ -48,10 +48,10 @@ HomeAutomationSystem (Composition)
 
 ```
 smart-home-automation/
-├── home_network.py           # Core implementation (Device classes + optimization)
-├── home_network_tests.py     # Unit tests (>90% coverage)
-├── padm0012.ipynb            # Jupyter notebook with simulations
-├── README.md                 # This file
+├── home_network.py            # Core implementation (Device classes + optimization)
+├── home_network_tests.py      # Unit tests (>90% coverage)
+├── Home automation code.ipynb # Jupyter notebook with simulations
+├── README.md                  # This file
 └── docs/
     └── UML_diagram.png       # System architecture diagram
 ```
